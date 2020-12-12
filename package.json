@@ -14,5 +14,9 @@
   },
   "engines": {
     "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SifoDiaz/sifodiaz-Basic-Node-And-Express-Challenges.git"
   }
 }
